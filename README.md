@@ -1,6 +1,6 @@
 # pcf-cloudformtion
 
-##Note this stack is formated for GovCloud in it's use of ARN's and Instance Types
+Note this stack is formated for GovCloud in it's use of ARN's and Instance Types
 
 
 Steps to use this CloudFormation Stack:
