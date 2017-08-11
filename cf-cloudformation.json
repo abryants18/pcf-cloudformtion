@@ -49,7 +49,7 @@
     },
     "08OpsManagerTemplate": {
       "Type": "String",
-      "Default": "https://s3.YOUR BUCKET HERE!! probably pcf-bucket if you using DIUx AWS. Talk to Alex Bryant if questions!!",
+      "Default": "https://s3.region/bucketname/objectname",
       "Description": "S3 Location for OpsManager CloudFormation Template"
     },
     "09ElbPrefix": {
